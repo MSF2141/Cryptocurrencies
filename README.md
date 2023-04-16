@@ -10,5 +10,7 @@ In this project, unsupervised machine learning models are used to create a class
 4. Visualizing Cryptocurrencies Results
 
 ## Results
+[crypto_clustering](https://github.com/MSF2141/Cryptocurrencies/blob/96e1f0827e4f74816ab54fce29972c9245aec860/crypto_clustering.ipynb) code.
+
 ![3D%20scatter%20plot](https://github.com/MSF2141/Cryptocurrencies/blob/468b1b25ce966ec43235fc70e831d38f6221c15b/3D%20scatter%20plot.png)
 
